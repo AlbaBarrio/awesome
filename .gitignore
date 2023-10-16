@@ -4,8 +4,7 @@
 #Database
 *.sqlite3
 
-
-# Archivos de texto
+# Ficheros de texto
 runtime.txt
 
 
